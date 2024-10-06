@@ -1,0 +1,14 @@
+C:\USPG\ProgramacionII\EjemploTestingClase\PedidosApp\App\bin\Debug\net8.0\App.exe
+C:\USPG\ProgramacionII\EjemploTestingClase\PedidosApp\App\bin\Debug\net8.0\App.deps.json
+C:\USPG\ProgramacionII\EjemploTestingClase\PedidosApp\App\bin\Debug\net8.0\App.runtimeconfig.json
+C:\USPG\ProgramacionII\EjemploTestingClase\PedidosApp\App\bin\Debug\net8.0\App.dll
+C:\USPG\ProgramacionII\EjemploTestingClase\PedidosApp\App\bin\Debug\net8.0\App.pdb
+C:\USPG\ProgramacionII\EjemploTestingClase\PedidosApp\App\obj\Debug\net8.0\App.GeneratedMSBuildEditorConfig.editorconfig
+C:\USPG\ProgramacionII\EjemploTestingClase\PedidosApp\App\obj\Debug\net8.0\App.AssemblyInfoInputs.cache
+C:\USPG\ProgramacionII\EjemploTestingClase\PedidosApp\App\obj\Debug\net8.0\App.AssemblyInfo.cs
+C:\USPG\ProgramacionII\EjemploTestingClase\PedidosApp\App\obj\Debug\net8.0\App.csproj.CoreCompileInputs.cache
+C:\USPG\ProgramacionII\EjemploTestingClase\PedidosApp\App\obj\Debug\net8.0\App.dll
+C:\USPG\ProgramacionII\EjemploTestingClase\PedidosApp\App\obj\Debug\net8.0\refint\App.dll
+C:\USPG\ProgramacionII\EjemploTestingClase\PedidosApp\App\obj\Debug\net8.0\App.pdb
+C:\USPG\ProgramacionII\EjemploTestingClase\PedidosApp\App\obj\Debug\net8.0\App.genruntimeconfig.cache
+C:\USPG\ProgramacionII\EjemploTestingClase\PedidosApp\App\obj\Debug\net8.0\ref\App.dll
